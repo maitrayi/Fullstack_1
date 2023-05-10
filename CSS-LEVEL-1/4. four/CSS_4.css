@@ -1,0 +1,11 @@
+/* heirarchy of class */
+li{
+    color: tomato;
+}
+.topitem{
+    color: rgb(65, 65, 188);
+}
+#two{
+    color: rgb(6, 85, 6);
+    border: 2px solid black;
+}

@@ -1,0 +1,18 @@
+body{
+    /* background-color: url(); */
+    background-color: gray;
+}
+div{
+    background-color: rgb(74, 74, 142);
+    border-color: rgb(25, 25, 69);
+    /* border-width: thin; */
+    border-width: 5px;
+    border-style: solid;
+}
+p{
+    color: rgb(196, 196, 8);
+}
+span{
+    background-color: pink;
+    color: black;
+}

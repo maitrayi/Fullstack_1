@@ -1,0 +1,23 @@
+/* This ia a comment  */
+/* some text  */
+
+/* Format of CSS
+
+selected tag{
+    property: value;
+} */
+
+h1{
+    color: blueviolet;
+}
+li{
+    color: rgb(72, 117, 69);
+}
+p{
+    color:hsl(4, 90%, 32%);
+}
+h4{
+    color: rgba(56, 19, 45, .5);  
+    /* 4 values r g b and alpha for transparecy  */
+}
+

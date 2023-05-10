@@ -1,0 +1,31 @@
+h1{
+    font-family: "Arial";
+}
+p{
+    font-family: monospace;
+}
+
+body{
+    font-size: 20px;
+}
+
+/* 1em =16px
+1em =32px
+works in raito  
+FONT awareness
+we can download fonts and put in our site
+also we can put custom font by 
+        1. google fonts api
+        2. font library.com 
+
+*/
+
+#two{
+    font-size: 2.0em;
+}
+p{
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+

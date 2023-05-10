@@ -1,0 +1,35 @@
+
+/* class always starts with a dot */
+.firstDiv{
+    color: red;
+}
+.secondDiv{
+    color: blueviolet;
+}
+
+#singledout{
+    color: green;
+    text-decoration: line-through;
+}
+/* for alll and will not over write id but will class */
+/* 
+
+*{
+    color: turquoise;
+}
+
+*/
+/* adjecent siblings */
+h3+ol{
+    border: 4px dotted rgb(112, 82, 220);
+}
+
+/* CSS selectors */
+li a{
+    color: brown;
+}
+
+li a[href="https://github.com/"]{
+    color: blue;
+    border: 5px solid orange;
+}
