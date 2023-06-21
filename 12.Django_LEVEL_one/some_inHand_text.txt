@@ -1,0 +1,12 @@
+ cd C:\Users\Admin\Videos\work\Portfolio\6.FullStack\1.Project\12.Django_LEVEL_one
+
+conda activate Django_env
+
+django-admin startproject project_1
+
+ cd C:\Users\Admin\Videos\work\Portfolio\6.FullStack\1.Project\12.Django_LEVEL_one\project_1
+
+python manage.py runserver
+
+python manage.py startapp page_1
+
